@@ -23,3 +23,8 @@ To set up the project locally, follow these steps:
    ```bash  
    git clone https://github.com/yourusername/youtube-sentiment-analysis.git  
    cd youtube-sentiment-analysis
+
+2. **Create a virtual environment (optional but recommended)**:
+   ```bash
+   python -m venv venv  
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
