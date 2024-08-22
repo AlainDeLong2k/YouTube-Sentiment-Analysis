@@ -18,7 +18,8 @@ YouTube Sentiment Analysis is a web application that allows users to input a You
 
 ## Deploying
 - Youtube Sentiment Analysis deployed website: https://alaindelong-youtube-sentiment-analysis.hf.space/
-- Published Model: https://huggingface.co/spaces/AlainDeLong/youtube-sentiment-analysis
+- Published Model: https://huggingface.co/spaces/AlainDeLong/youtube-sentiment-analysis/tree/main
+- Due to the large size of the model, it cannot be included here; it will be available at the huggingface link mentioned above.
 
 ## Installation  
 To set up the project locally, follow these steps:  
