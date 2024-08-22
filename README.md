@@ -41,4 +41,5 @@ To set up the project locally, follow these steps:
 2. Enter a valid YouTube video link in the input field. Examples of valid links include:
    - https://www.youtube.com/watch?v=b5k8bkWYyPQ
    - https://youtu.be/b5k8bkWYyPQ?si=gABWBqKdjo_um6nk
+3. Click on the `Analyze` button to retrieve and analyze comments for sentiment.
 
