@@ -21,8 +21,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/yourusername/youtube-sentiment-analysis.git  
-   cd youtube-sentiment-analysis
+   git clone https://github.com/AlainDeLong2k/demo-youtube-sentiment-analysis.git
+   cd demo-youtube-sentiment-analysis
 
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
@@ -36,10 +36,19 @@ To set up the project locally, follow these steps:
 4. **Run the application**:
    ```bash
    streamlit run app.py
+
 ## Usage
 1. Open a web browser and navigate to http://localhost:8501 (this is the default Streamlit port).
 2. Enter a valid YouTube video link in the input field. Examples of valid links include:
    - https://www.youtube.com/watch?v=b5k8bkWYyPQ
    - https://youtu.be/b5k8bkWYyPQ?si=gABWBqKdjo_um6nk
 3. Click on the `Analyze` button to retrieve and analyze comments for sentiment.
+4. View the summary and comments in the application.
 
+## Contributing
+Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+For any further questions or issues, feel free to open an issue in the repository.
