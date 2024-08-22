@@ -1,7 +1,7 @@
 # YouTube Sentiment Analysis  
 
 ## Overview  
-YouTube Sentiment Analysis is a web application that allows users to input a YouTube video link and retrieve comments along with their sentiment analysis. The application employs a machine learning model to determine whether the comments are positive, negative, or neutral, providing insights into the general opinion of the viewers.  
+YouTube Sentiment Analysis is a web application that allows users to input a YouTube video link and retrieve comments along with their sentiment analysis. The application employs a machine learning model to determine whether the comments are positive or negative, providing insights into the general opinion of the viewers.  
 
 ## Features  
 - **Input Video Link**: Users can enter any valid YouTube video link.  
@@ -15,6 +15,10 @@ YouTube Sentiment Analysis is a web application that allows users to input a You
 - **Pandas**: For data manipulation and analysis.  
 - **Machine Learning Model**: For predicting the sentiment of the comments.  
 - **YouTube API**: To fetch comments from the specified YouTube videos.  
+
+## Deploying
+- Youtube Sentiment Analysis deployed website: https://alaindelong-youtube-sentiment-analysis.hf.space/
+- Published Model: https://huggingface.co/spaces/AlainDeLong/youtube-sentiment-analysis
 
 ## Installation  
 To set up the project locally, follow these steps:  
