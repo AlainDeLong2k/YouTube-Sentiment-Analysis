@@ -10,11 +10,11 @@ YouTube Sentiment Analysis is a web application that allows users to input a You
 - **User-Friendly Interface**: Built with Streamlit, providing an intuitive web interface.  
 
 ## Technologies Used  
-- **Python**: The primary programming language for the application.  
+- **Python**: The primary programming language for the application.
 - **Streamlit**: For creating interactive web applications.  
-- **Pandas**: For data manipulation and analysis.  
-- **Machine Learning Model**: For predicting the sentiment of the comments.  
 - **YouTube API**: To fetch comments from the specified YouTube videos.  
+- **Jupyter Notebook**: Used for analyzing the problem and training the model, providing an interactive environment for experimentation and visualization of data insights.
+- **TensorFlow and Keras**: For developing and training the machine learning model to predict the sentiment of the comments.
 
 ## Deploying
 - Youtube Sentiment Analysis deployed website: https://alaindelong-youtube-sentiment-analysis.hf.space/
