@@ -21,6 +21,9 @@ YouTube Sentiment Analysis is a web application that allows users to input a You
 - Published Model: https://huggingface.co/spaces/AlainDeLong/youtube-sentiment-analysis/tree/main
 - Due to the large size of the model, it cannot be included here; it will be available at the huggingface link mentioned above.
 
+## Note
+Due to the limited quota of the YouTube API, the website only displays comments from the video itself, and replies to comments (also known as responses) will not be shown. As a result, the number of comments displayed on the website will often be less than the actual number of comments on the YouTube video.
+
 ## Installation  
 To set up the project locally, follow these steps:  
 
